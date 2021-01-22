@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297.18744mm"
+   height="90.133789mm"
+   viewBox="0 0 297.18744 90.133789"
+   version="1.1"
+   id="svg2734"
+   inkscape:version="1.0.1 (3bc2e81, 2020-09-07)"
+   sodipodi:docname="B225LOGObrunurb.svg">
+  <defs
+     id="defs2728" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="803.95855"
+     inkscape:cy="331.63951"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="720"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata2731">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(106.8807,-60.42038)">
+    <text
+       xml:space="preserve"
+       style="font-size:126.949px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke-width:15.8685"
+       x="-114.62459"
+       y="150.55417"
+       id="text2691"><tspan
+         sodipodi:role="line"
+         id="tspan2689"
+         x="-114.62459"
+         y="150.55417"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Heavy';fill:#ffffff;fill-opacity:1;stroke-width:15.8685">NIXY</tspan></text>
+    <path
+       id="path2693"
+       style="opacity:1;fill:#ff0101;fill-opacity:1;stroke-width:0.320358"
+       d="m 46.440224,60.498413 16.6318,28.87994 16.6324,-28.87994 z" />
+    <path
+       id="path2695"
+       style="opacity:1;fill:#02a0c5;fill-opacity:1;stroke-width:0.465698"
+       d="m 130.56592,60.453663 16.2411,37.085361 16.624,-37.085361 z" />
+  </g>
+</svg>
