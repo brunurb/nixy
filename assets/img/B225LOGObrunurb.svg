@@ -52,24 +52,34 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(106.8807,-60.42038)">
-    <text
-       xml:space="preserve"
-       style="font-size:126.949px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke-width:15.8685"
-       x="-114.62459"
-       y="150.55417"
-       id="text2691"><tspan
-         sodipodi:role="line"
-         id="tspan2689"
-         x="-114.62459"
-         y="150.55417"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Heavy';fill:#ffffff;fill-opacity:1;stroke-width:15.8685">NIXY</tspan></text>
+    <g
+       aria-label="NIXY"
+       id="text2691"
+       style="font-size:126.949px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke-width:15.8685">
+      <path
+         d="m -82.125645,106.24897 v 44.3052 H -106.8807 V 60.42038 h 19.296248 l 36.180465,45.82859 V 60.42038 h 24.755054 v 90.13379 h -19.677094 z"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Heavy';fill:#ffffff;fill-opacity:1;stroke-width:15.8685"
+         id="path19" />
+      <path
+         d="M -11.161194,150.55417 V 60.42038 h 24.755055 v 90.13379 z"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Heavy';fill:#ffffff;fill-opacity:1;stroke-width:15.8685"
+         id="path21" />
+      <path
+         d="M 46.727477,60.42038 63.103897,88.856956 79.480318,60.42038 h 26.659292 l -28.309629,45.70164 27.294039,44.43215 H 78.464726 L 63.103897,123.38708 47.743068,150.55417 H 20.95683 L 48.250864,106.12202 19.941238,60.42038 Z"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Heavy';fill:#ffffff;fill-opacity:1;stroke-width:15.8685"
+         id="path23" />
+      <path
+         d="m 130.76766,60.42038 16.12253,36.81521 16.50337,-36.81521 h 26.91318 l -31.1025,60.30077 v 29.83302 H 134.57613 V 120.46726 L 103.98142,60.42038 Z"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Heavy';fill:#ffffff;fill-opacity:1;stroke-width:15.8685"
+         id="path25" />
+    </g>
     <path
        id="path2693"
-       style="opacity:1;fill:#ff0101;fill-opacity:1;stroke-width:0.320358"
+       style="opacity:1;fill:#ff2a2a;fill-opacity:1;stroke-width:0.320358"
        d="m 46.440224,60.498413 16.6318,28.87994 16.6324,-28.87994 z" />
     <path
        id="path2695"
-       style="opacity:1;fill:#02a0c5;fill-opacity:1;stroke-width:0.465698"
+       style="opacity:1;fill:#37c8ab;fill-opacity:1;stroke-width:0.465698"
        d="m 130.56592,60.453663 16.2411,37.085361 16.624,-37.085361 z" />
   </g>
 </svg>
